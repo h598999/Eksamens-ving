@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<root>
+
+<Medlem medlemId = "123">
+<Fornavn><Navn fornavn ="" etternavn = ""></Navn></Fornavn>
+<TlfNummer>telefonnummer</TlfNummer>
+<E-Post>epostAdresse</E-Post>
+<PostNummer>postnummer</PostNummer>
+<poststed> poststed </poststed>
+<GateNavn>Gatenavn/husnummer</GateNavn>
+<erMedlem> erMedlem</erMedlem>
+<Lagnavn>lagnavn</Lagnavn>
+</Medlem>
+
+
+
+<MedlemsAvgift>
+<idMedlem>medlemId</idMedlem>
+<Betalt2019>erbetalt</Betalt2019>
+<Betalt2020>erbetalt</Betalt2020>
+<Betalt2021>erbetalt</Betalt2021>
+<Betalt2022>erbetalt</Betalt2022>
+</MedlemsAvgift>
+
+<Navn>
+<Fornavn>fornavn</Fornavn>
+<Etternavn>Etternavn</Etternavn>
+</Navn>
+
+<LokalLag>
+<Lagnavn>lagnavn</Lagnavn>
+<Leder>medlemId</Leder>
+<PostnummerMøtelokale>postnummer</PostnummerMøtelokale>
+<PoststedMøtelokale>poststed</PoststedMøtelokale>
+<GatenavnMøtelokale>Gatenavn</GatenavnMøtelokale>
+</LokalLag>
+
+
+</root>
